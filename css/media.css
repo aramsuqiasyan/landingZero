@@ -1,0 +1,268 @@
+@media only screen and (max-width: 1024px){
+    .nav-content li a{
+        padding: 20px 9px;
+    }
+    .inner-gallery div.image{
+        width:50%;
+    }
+    .inputs{
+        width: 100%;
+    }
+    .textarea{
+        width:100%;
+    }
+    .inner-footer input{
+        width:100%;
+    }
+
+  
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 791px){
+
+    .inner-intro{
+        width:90%;
+    }
+
+    .inner-highlights-row{
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .col{
+        margin: 20px 2%;
+    }
+
+    .inner-features{
+        width: 70%;
+    }
+
+    .inner-contact{
+        width: 100%;
+    }
+    .inner-contact-standarts{
+        width:80%;
+    }
+    .inputs{
+        flex-direction: column;
+    }
+    form .input{
+        width: 100%;
+        margin-top: 10px;
+    }
+    textarea{
+        margin-top: 5px;
+    }
+    .touch{
+        min-height: 650px;
+    }
+    .btn-submit{
+        width:100%;
+    }
+    .inner-footer input{
+        width:100%;
+    }
+    .inner-footer i{
+        font-size: 50px;
+    }
+}
+
+
+@media only screen and (max-width: 790px){
+    .nav-content li a.menu{
+        display: block;
+    }
+    .menuUl{
+        position: absolute;
+        opacity: 0;
+        top: -100px;
+    }
+    .nav-content-right li{
+        display: none;
+    }
+    .nav-content-right li.menu-parent{
+        display: block;
+    }
+    .nav-logo a{
+        margin: 20px;
+    }
+    header{
+        height: 530px;
+    }
+    .col{
+        width: 50%;
+    }
+    .col i{
+        font-size: 50px;
+    }
+    .inner-gallery div.image{
+        width:100%;
+    }
+    .inner-gallery{
+        width: 95%;
+    }
+    .inner-footer button{
+        height: 35px;
+    }
+    .inner-footer{
+        flex-wrap: wrap;
+    }
+    .inner-footer .fb1{
+        flex-basis: 50%;
+    }
+    .inner-footer .fb2{
+        flex-basis: 100%;
+    }
+    .inner-footer button{
+        width: 40%;
+        margin: 0;
+    }
+    footer{
+        min-height: 350px;
+    }
+    .follow{
+        display: block;
+        margin: 0 0 0 73%;
+    }
+    .inner-footer i{
+        font-size: 40px;
+    }
+    .nav-content li a.menu{
+        font-size: 20px;
+    }
+    .nav-logo a{
+        padding-right: 100px;
+    }
+
+}
+
+
+@media only screen and (max-width: 425px){
+
+    .inner-header-content h1{
+        font-size: 35px;
+    }
+    .inner-header-content a{
+        display: block;
+        margin: 10px auto;
+    }
+    .inner-gallery{
+        width: 100%;
+    }
+    .inner-features{
+        width:100%;
+    }
+    .inner-contact-standarts{
+        width: 80%;
+    }
+    .inner-contact-standarts i{
+        font-size: 50px;
+        flex-basis: 50%;
+    }
+    .inner-footer button{
+        height: 40px;
+    }
+    .inner-footer button{
+        width:50%;
+    }
+    .inner-highlights{
+        width:100%;
+    }
+    .inner-features > div{
+        margin: 45px 30px 0px auto;
+        padding-bottom: 20px;
+    }
+    .inner-footer i{
+        font-size: 30px;
+    }
+    .follow{
+        margin: 0 0 0 63%;
+    }
+
+}
+@media only screen and (max-width: 480px){
+    .nav-content li a{
+        padding: 4px 9px;
+    }
+    .nav-content li a.menu{
+        top: 16px;
+    }
+    textarea{
+        height:50px;
+    }
+    form input{
+        height: 16px;
+    }
+    .touch{
+        min-height: 450px;
+    }
+    .follow{
+        margin: 0 0 0 65%;
+    }
+}
+@media only screen and (max-width: 425px){
+	header{
+		height: 400px;
+	}
+	.inner-header-content a{
+		display: inline-block;
+		height: 30px;
+		line-height: 30px;
+        font-size: 16px;
+        width: 100px;
+	}
+.inner-features p{
+	font-size: 14px;
+	max-width: 70%;
+	}
+.inner-features i{
+	margin: 0 15px;
+    }
+    .nav-content li a.menu{
+        top: 0px;
+    }
+
+    .nav-content li a{
+        padding: 8px 9px;
+    }
+    .nav-logo a{
+        margin: 5px 0 0 0 ;
+        padding-right: 85px;
+    }
+    .nav{
+        min-height: 40px;
+
+    }
+    .inner-nav{
+        min-height: 40px;
+    }
+    .nav-content-right{
+        min-height: 40px;
+    }
+    .highlights{
+        min-height: 650px;
+    }
+    form input{
+        height: 16px;
+    }
+    textarea{
+        height: 50px;
+    }
+    .btn-submit{
+        width:60%;
+        height: 30px;
+        font-size: 18px;
+    }
+    .touch{
+        min-height: 450px;
+    }
+    .follow{
+        margin: 0 0 0 60%;
+    }
+}
